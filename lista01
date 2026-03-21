@@ -3,7 +3,7 @@ programa {
   funcao inicio(){
 
     real n1, n2, n3, media
-    escreva("Insira cada nota individualmente e pressione ENTER: \n")
+    escreva("Insira cada nota e pressione ENTER: \n")
     leia (n1,n2,n3)
 
     escreva ("Suas notas foram: \n",
